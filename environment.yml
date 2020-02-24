@@ -1,0 +1,19 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+  - pyviz
+
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - python
+  - xlrd
+  - ipywidgets
+  - nodejs
+  - psutil
+  - requests
+  - bokeh
+  - hvplot
